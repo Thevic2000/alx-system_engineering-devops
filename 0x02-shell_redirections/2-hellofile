@@ -1,3 +1,2 @@
 #!/bin/bash
-cat /etc/passwd<F11>
-
+cat /etc/passwd
